@@ -5,3 +5,6 @@
 
 # DD^2 SOLIDWORKS Designs
 The SOLIDWORKS designs for PHM66 channel.
+
+**Change Logs**:
+- Add Cylindar design
