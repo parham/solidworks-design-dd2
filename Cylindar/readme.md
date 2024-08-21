@@ -5,5 +5,5 @@
 # DD^2 : Cylinder design
 
 <div align="center">
-  <img src="Cylindar/design.PNG"/ width="1000">
+  <img src="design.PNG"/ width="1000">
 </div>
