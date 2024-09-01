@@ -6,7 +6,7 @@
 # DD^2 SOLIDWORKS Designs
 The SOLIDWORKS designs for PHM66 channel.
 
-**Change Logs**:
+### Change Logs
 | 	Date	   | 	Change	 | 
 | 	:-----:	 | 	:-----:	 | 
 | 	July 2024	  | 	Added Cylindar design	       | 
