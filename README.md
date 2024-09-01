@@ -7,6 +7,8 @@
 The SOLIDWORKS designs for PHM66 channel.
 
 **Change Logs**:
-- Added Cylindar design
-- Added Box with Sliding Lit
-- Added a Camera Shutter
+| 	Date	   | 	Change	 | 
+| 	:-----:	 | 	:-----:	 | 
+| 	July 2024	  | 	Added Cylindar design	       | 
+| 	July 2024	  | 	Added Box with Sliding Lit	 | 
+| 	31 Aug 2024	| 	Added a Camera Shutter	     | 
